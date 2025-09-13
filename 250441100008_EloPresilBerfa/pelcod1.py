@@ -18,10 +18,10 @@ print("="*50)
 
 # #tipe data number
 
-# # tahun_lahir= int(input("masukkan Tahun Lahir :"))
-# # tahun_sekarang= int(input("masukkan Tahun Sekarang :"))
-# # hitung=tahun_sekarang-tahun_lahir
-# # print(hitung)
+ # tahun_lahir= int(input("masukkan Tahun Lahir :"))
+ # tahun_sekarang= int(input("masukkan Tahun Sekarang :"))
+ # hitung=tahun_sekarang-tahun_lahir
+ # print(hitung)
 
 # bilangan= 51
 # bilangan2= 7
